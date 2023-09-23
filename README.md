@@ -15,4 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I can program a little here and there. Mostly with Python and some web stuff like javascript.
+I can program a little here and there. Mostly with Python and some web stuff like HTML, CSS, and a tiny bit of JavaScript.
+Am I even qualified to be a dev in the 21st century? LMAO
