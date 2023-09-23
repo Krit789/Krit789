@@ -14,7 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 I'm a student at the School of Information Technology, KMITL, in Bangkok, Thailand.
+
 ---
 I can program a little here and there. Mostly with Python and some web stuff like HTML, CSS, and a tiny bit of JavaScript.
 
