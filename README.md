@@ -51,17 +51,6 @@ I'm a student at the School of Information Technology, KMITL, in Bangkok, Thaila
 
 ## 📊 GitHub Stats
 
-<p align="center">
-
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Krit789&theme=vue&hide_border=true&include_all_commits=false&count_private=false" />
-</p>
-&nbsp;&nbsp;&nbsp;
-<p align="center">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Krit789&theme=vue&hide_border=true" />
-</p>
-&nbsp;&nbsp;&nbsp;
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krit789&theme=vue&hide_border=true&include_all_commits=false&count_private=false&layout=compact" />
-
-</p>
+<div>
+<img width="100%" src="./stats.svg" alt="Profile Stats" />
+</div>

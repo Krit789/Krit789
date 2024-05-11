@@ -1,0 +1,60 @@
+<svg xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.w3.org/2000/svg" fill="none" style="width: 100%;" height="500">
+    <foreignObject width="100%" height="100%">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+            <style>
+                .container{
+                    position: relative;
+                    width: 100%;
+                    height: 500px;
+                    background-color: #0d1117;
+                    opacity: 0;
+                    animation: fadeIn 1.2s linear 1.6s forwards;
+                    text-align: center;
+                }
+                @keyframes fadeIn {
+                    0% {
+                        opacity: 0;
+                    }
+                    100% {
+                        opacity: 1;
+                    }
+                }
+                img.light{
+                    display: none; 
+                }
+                
+                @media (prefers-color-scheme: light) {
+                    img.dark{
+                        display: none; 
+                    }
+                    img.light{
+                        display: block; 
+                    }
+                    .text-light{
+                        display: block;
+                        color: #333;
+                    }
+                    .text-dark{
+                        display: none;
+                    }   
+                }
+                
+                @media (prefers-reduced-motion: reduce) {
+                    img.light,
+                    img.dark,
+                    .text-light,
+                    .text-dark{
+                        animation: none !important;
+                        opacity: 1;
+                    }
+                }
+                
+            </style>
+            <div class="container">
+                <img src="https://github-readme-stats.vercel.app/api?username=Krit789&amp;theme=vue&amp;hide_border=true&amp;include_all_commits=false&amp;count_private=false" />
+                <img src="https://github-readme-streak-stats.herokuapp.com/?user=Krit789&amp;theme=vue&amp;hide_border=true" />
+                <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krit789&amp;theme=vue&amp;hide_border=true&amp;include_all_commits=false&amp;count_private=false&amp;layout=compact" />
+            </div>   
+        </div>
+    </foreignObject>
+</svg>
