@@ -1,4 +1,4 @@
-<img src="banner.webp" />
+<img alt="" align="center" src="banner.webp" />
 
 ## Hello there 👋
 
