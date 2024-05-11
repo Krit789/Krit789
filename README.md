@@ -1,12 +1,15 @@
+<h1 align="center"> Hello there 👋 </h1>
 <p align="center">
-<img alt="" align="center" src="banner.webp" />
+<img alt="Banner" align="center" src="banner.webp" />
 </p>
-
-## Hello there 👋
-
+<p align="center">
 I'm a student at the School of Information Technology, KMITL, in Bangkok, Thailand.
-
-## 💻 Tech Stacks
+</p>
+<br/>
+<br/>
+<h1 align="center"> 💻 Tech Stacks </h1>
+<div>
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krit789&amp;theme=vue&amp;hide_border=true&amp;include_all_commits=false&amp;count_private=false&amp;layout=compact" />
 
 ### Languages
 
@@ -49,8 +52,11 @@ I'm a student at the School of Information Technology, KMITL, in Bangkok, Thaila
 
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
 
-## 📊 GitHub Stats
-
-<div>
-<img width="100%" src="./stats.svg" alt="Profile Stats" />
 </div>
+
+<h1 align="center"> 📊 GitHub Stats </h1>
+
+<p align="center">
+                <img src="https://github-readme-stats.vercel.app/api?username=Krit789&amp;theme=vue&amp;hide_border=true&amp;include_all_commits=false&amp;count_private=false" />
+                <img src="https://github-readme-streak-stats.herokuapp.com/?user=Krit789&amp;theme=vue&amp;hide_border=true" />
+</p>
